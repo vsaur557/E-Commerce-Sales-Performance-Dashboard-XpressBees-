@@ -26,10 +26,11 @@ The dashboard helps business owners identify top-performing regions and categori
 * **Time Series Chart:** Daily revenue tracking to monitor business growth.
 
 ## 📁 Tech Stack Used
-* **Visualization Tool:** Power BI / Tableau
+* **Visualization Tool:** Power BI
 * **Data Source:** Excel/CSV
 * **Design:** Custom Theme with XpressBees Branding
 
 ## 📸 Dashboard Preview
-https://raw.githubusercontent.com/SaurabhVerma/PowerBI-Dashboard/main/Screenshot%202026-01-19%20125152.png
+![Power BI Dashboard](https://raw.githubusercontent.com/SaurabhVerma/PowerBI-Dashboard/main/powerbi_dashboard.png)
+
 
