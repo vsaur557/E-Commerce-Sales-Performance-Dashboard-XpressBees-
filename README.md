@@ -31,4 +31,5 @@ The dashboard helps business owners identify top-performing regions and categori
 * **Design:** Custom Theme with XpressBees Branding
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](https://raw.githubusercontent.com/SaurabhVerma/PowerBI-Dashboard/main/Screenshot%202026-01-19%20125152.png)
+https://raw.githubusercontent.com/SaurabhVerma/PowerBI-Dashboard/main/Screenshot%202026-01-19%20125152.png
+
