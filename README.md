@@ -1,6 +1,9 @@
-# 📊 E-Commerce Sales Performance Dashboard (XpressBees)
+# 📊 E-Commerce Sales Dashboard (XpressBees)
+# Description
+Interactive Power BI dashboard analyzing e-commerce sales performance, tracking revenue trends, regional performance, product categories, and operational insights for business growth.
 
-## 📝 Project Overview
+
+## 📝 Project Overview 
 This project is an interactive Data Visualization dashboard designed to analyze e-commerce sales performance. It provides a deep dive into revenue trends, product popularity, and the financial impact of order cancellations.
 
 The dashboard helps business owners identify top-performing regions and categories while highlighting areas that need operational improvement (like high cancellation rates).
