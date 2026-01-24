@@ -31,6 +31,6 @@ The dashboard helps business owners identify top-performing regions and categori
 * **Design:** Custom Theme with XpressBees Branding
 
 ## 📸 Dashboard Preview
-![Dashboard](https://raw.githubusercontent.com/SaurabhVerma/PowerBI-Dashboard/main/dashboard.png)
+![Dashboard](https://github.com/vsaur557/E-Commerce-Sales-Performance-Dashboard-XpressBees-/blob/main/Screenshot%202026-01-24%20121214.png)
 
 
